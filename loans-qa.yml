@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to EazyBank loans related local APIs"
+  message: "Welcome to EazyBank loans related stage APIs"
   contactDetails:
     name: "Zak Islam - QA Lead"
     email: "Zak.islam@eazybank.com"

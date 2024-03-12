@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to EazyBank cards related local APIs"
+  message: "Welcome to EazyBank cards related prod APIs"
   contactDetails:
     name: "Biplob Islam - Product Owner"
-    email: "biplob.islam@eazybank.com"
+    email: "{cipher}b963ccff0656be9b073bfb72805d53ae8181843159bb09a75be5e03f0e8ee29427acd9a02f38b0ca5c4cd1080675c4a6"
   onCallSupport:
     - 7844456787
     - 4540546556
