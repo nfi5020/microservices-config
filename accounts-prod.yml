@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related production APIs"
+  message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
     name: "Biplob Islam - Producer Owner"
     email: "{cipher}b963ccff0656be9b073bfb72805d53ae8181843159bb09a75be5e03f0e8ee29427acd9a02f38b0ca5c4cd1080675c4a6"
